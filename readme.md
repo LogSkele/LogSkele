@@ -14384,6 +14384,6 @@
 <!-- for the effect you know -->
 <!-- for the effect you know -->
 
-<p align="center"><b>It seems like <a href="https://github.com/LogSkele/LogSkele/blob/master/README.md">LogSkele's README.md file</a> could not be reached.</b>
+<p align="center"><b>It seems like <a href="https://github.com/LogSkele/LogSkele/blob/master/readme.md">LogSkele's README.md file</a> could not be reached.</b>
 
 </p> <p align="center">Please refresh your page to check again. If problem persists, please open on a new computer.</p>
