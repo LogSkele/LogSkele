@@ -6,6 +6,6 @@ opened {{ ISSUES }} issues and
 
 pushed {{ COMMITS }} commits,
 
-got {{ STARS }} on my {{ REPOSITORIES }} repos.
+got {{ STARS }} stars on my {{ REPOSITORIES }} repos.
 
 > ###### including the private repos
