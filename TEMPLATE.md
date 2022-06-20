@@ -8,8 +8,6 @@ pushed {{ COMMITS }} commits,
 
 got {{ STARS }} stars on my {{ REPOSITORIES }} repos.
 
-oh ya, my language thingy:
-
-{{ LANGUAGE_TEMPLATE_START }} {{ LANGUAGE_NAME:uri }}: {{ LANGUAGE_PERCENT:uri }}%<br> {{ LANGUAGE_TEMPLATE_END }}
+my website if u want: [logskele.thedev.id](https://logskele.thedev.id)
 
 > ###### including the private repos
