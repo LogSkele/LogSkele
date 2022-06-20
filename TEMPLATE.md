@@ -1,4 +1,4 @@
-hi, i've been on github {{ ACCOUNT_AGE }} years,
+hi, i've been on github for {{ ACCOUNT_AGE }} years,
 
 opened {{ ISSUES }} issues and
 
