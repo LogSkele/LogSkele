@@ -4,10 +4,12 @@ opened 85 issues and
 
 55 pull requests,
 
-pushed 10376 commits,
+pushed 10377 commits,
 
 got 16 stars on my 12 repos.
 
 my website if u want: [logskele.thedev.id](https://logskele.thedev.id)
+
+`🔵 python` `🟠 html` `🟤 java`
 
 > ###### including the private repos
