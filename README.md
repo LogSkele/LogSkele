@@ -10,4 +10,5 @@ got 16 stars on my 12 repos.
 
 my website if u want: [logskele.thedev.id](https://logskele.thedev.id)
 
+`🔵 python` `🟠 html` `🟤 java`
 > ###### including the private repos
