@@ -6,7 +6,7 @@ opened 85 issues and
 
 pushed 10383 commits,
 
-got 16 stars on my 11 repos.
+got 9 stars on my 11 repos.
 
 my website if u want: [logskele.thedev.id](https://logskele.thedev.id)
 
