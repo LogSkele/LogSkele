@@ -1,6 +1,6 @@
 hi, i've been on github for 1 years,
 
-opened 85 issues and
+opened 86 issues and
 
 55 pull requests,
 
